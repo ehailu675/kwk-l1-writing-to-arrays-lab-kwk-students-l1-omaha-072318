@@ -1,8 +1,8 @@
 rainbow_colors = ["yellow", "default", "light_cyan"]
 
 def change_rainbow_colors
-  rainbow_colors.delete_at(0)
-  rainbow_colors.delete_at(1)
+  rainbow_colors.delete("yellow")
+  rainbow_colors.delete
   rainbow_colors.delete_at(2)
   rainbow_colors[0] = "red"
   rainbow_colors[1] = "light_red"
