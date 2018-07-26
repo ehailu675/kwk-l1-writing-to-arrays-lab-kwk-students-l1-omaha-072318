@@ -42,3 +42,7 @@
 #     puts "#{element}"
 #   end
 # end
+
+snacks = ["cliff bars", "goldfish", "chips", "cereal", "fruit"]
+snacks.each do |element|
+  puts " #{element} is one of my favorite snacks"
