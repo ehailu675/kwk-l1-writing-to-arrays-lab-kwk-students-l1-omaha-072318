@@ -10,5 +10,5 @@
 
 siblings = ["ruth", "hannah"]
 siblings.each do |x|
-  puts  x
+  puts hey x
 end
