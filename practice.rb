@@ -45,4 +45,5 @@
 
 snacks = ["cliff bars", "goldfish", "chips", "cereal", "fruit"]
 snacks.each do |snack|
+end
   puts " #{snack} is one of my favorite snacks"
