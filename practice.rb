@@ -49,3 +49,4 @@ snacks.each do |element|
 end
 puts snacks.size
 puts snacks.first
+puts snacks.last
