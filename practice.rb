@@ -3,7 +3,7 @@
 #   puts shark
 # end
 
-ark
-endsharks = ["Hammerhead", "Great White", "Tiger", "Whale"]
-sharks.each do |shark|
-  puts sh
+# arksh
+# endsharks = ["Hammerhead", "Great White", "Tiger", "Whale"]
+# sharks.each do |shark|
+#   puts 
