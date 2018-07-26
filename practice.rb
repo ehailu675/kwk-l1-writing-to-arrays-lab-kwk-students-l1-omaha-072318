@@ -48,3 +48,4 @@ snacks.each do |element|
   puts " #{element} is one of my favorite snacks"
 end
 puts snacks.size
+puts snack.first
