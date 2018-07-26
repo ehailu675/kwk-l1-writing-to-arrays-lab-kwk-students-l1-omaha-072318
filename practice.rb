@@ -9,6 +9,6 @@
 #   puts 
 
 siblings = ["ruth", "hannah"]
-siblings.each do x
+siblings.each do |x|
   puts  x
 end
