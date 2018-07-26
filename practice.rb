@@ -8,7 +8,7 @@
 # sharks.each do |shark|
 #   puts 
 
-siblings = [-1, 2, 3, 4]
-numbers.each do "hey |x|"
+siblings = ["ruth", "hannah"]
+siblings.each do "hey |x|"
   puts x
 end
